@@ -150,7 +150,7 @@ ALTER TABLE public.employees
 	OWNER TO postgres;
 ```
 
-![image-20230824113032209](/image/image-20230824113032209.png)
+![image-20230824113032209]([/image/image-20230824113032209.png](https://github.com/qq1792038/JAVABOOK/blob/main/PostgreSQL/image/image-20230824113032209.png))
 
 插入数据
 
